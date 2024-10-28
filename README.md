@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🤖 Currently studying Industrial Automation
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,cs,arduino,js,python,lua" />
+    <img src="https://skillicons.dev/icons?i=godot,cs,arduino,js,html,css,python,lua" />
   </a>
 </p>
