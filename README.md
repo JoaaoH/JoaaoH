@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there 👋, what's going on?
 <!--
 **JoaaoH/JoaaoH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Currently studying Cybersecurity
+- 📖 Always learning a lot
+- 🤖 Currently studying Industrial Automation
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot,cs,arduino,js,python,lua" />
