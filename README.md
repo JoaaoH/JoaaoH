@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 Currently studying Computer Engineering
 - 📖 Always learning a lot
-- 🤖 Currently studying Industrial Automation
+- 💻 Passionate by tech and programming
+- 🤖 Trained as an Industrial Automation Technician
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot,cs,arduino,js,html,css,lua" />
